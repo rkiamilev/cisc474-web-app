@@ -4,6 +4,8 @@ A repo that you can fork to make new projects
 
 # Deployment Technologies
 
+* PNPM
+ * Install https://pnpm.io/installation
 * Database:
   * SupaBase Free Tier: https://supabase.com/
   * Directions:
